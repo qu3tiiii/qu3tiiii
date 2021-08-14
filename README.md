@@ -1,4 +1,4 @@
-Python, html, batch.
+I know about Python, html, batch.
 I am practicing pentesting, js and c++.
 White hat!
 
