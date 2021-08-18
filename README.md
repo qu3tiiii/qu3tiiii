@@ -1,5 +1,4 @@
-I know about Python, html, batch.
-I am practicing pentesting, js and c++.
+Se sobre python pero no soy experto, estoy estudiando sobre python cuando tengo tiempo y comparto codigos creados por mi o codigos que me parezcan divertidos:D<3
 White hat!
 
 
